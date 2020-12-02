@@ -17,7 +17,30 @@ In this project I have registered the dataset and then run autoML on that datase
 ![Best Model Details](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/5.PNG)
 
 2. Then Deploy the best performing model.
+
 3. Then Enable Log insights of the endpoint.
+
+![Application Insights Enabled In Deployed Model](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/8.PNG)
+![Logs In Bash](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/7.PNG)
+
+4. Make documentation of deployed endpoint using swagger.
+
+![Swagger API Documentation](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/9.PNG)
+![Swagger APIS json](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/10.PNG)
+
+5. Consume the model endpoints and show benchmarks for the endpoint.
+
+![Endpoing Output](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/11.PNG)
+![Benchmarks 1](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/12.PNG)
+
+6. Use Jupyter Notebook to create, publish and consume a pipeline.
+
+![Dataset](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/2.PNG)
+![Published Pipeline Overview](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/16.PNG)
+![Run Details](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/15.PNG)
+![Pipeline Created](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/20.PNG)
+![Pipeline Endpoint](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/19.PNG)
+![Scheduled Run](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/21.PNG)
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
