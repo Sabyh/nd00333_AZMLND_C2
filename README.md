@@ -43,7 +43,7 @@ In this project I have registered the dataset and then run autoML on that datase
 ![Scheduled Run](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/21.PNG)
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+[Link to screen recording](https://drive.google.com/file/d/10HCKoCkYEO-xW9_hR9LKix70nrdCHYZ-/view)
 
 ## Standout Suggestions
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
