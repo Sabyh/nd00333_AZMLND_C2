@@ -15,8 +15,8 @@ In this project I have registered the dataset and then run autoML on that datase
 ![Completed Experiment](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/3.PNG)
 ![Best Model Summary](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/4.PNG)
 ![Best Model Details](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/5.PNG)
-2. Then Deploy the best performing model.
 
+2. Then Deploy the best performing model.
 3. Then Enable Log insights of the endpoint.
 
 ## Screen Recording
