@@ -46,4 +46,4 @@ In this project I have registered the dataset and then run autoML on that datase
 [Link to screen recording](https://drive.google.com/file/d/10HCKoCkYEO-xW9_hR9LKix70nrdCHYZ-/view)
 
 ## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
+Maybe try deploying some other model.
