@@ -11,6 +11,19 @@ In this project I have registered the dataset and then run autoML on that datase
 ## Key Steps
 1. **Create an experiment using AutoML, register the dataset, configure a compute cluster, and use that cluster to run the experiment. On successfull completion best performing model will be returned.**
 
+For registering dataset I have first go to dataset and click on create dataset from web.
+![Registering Dataset step 1:](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/registered-dataset3.PNG)
+
+Then I have pasted the url in the web url text box and typed a name for the dataset and hit next.
+![Registering Dataset step 2:](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/registered-dataset4.PNG)
+
+Then in column headers I changed the value to "Use headers from the first file".
+![Registering Dataset step 3:](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/registered-dataset5.PNG)
+
+Final result
+![Final result](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/datasets.PNG)
+
+
 ![Registered Dataset](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/2.PNG)
 ![Completed Experiment](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/3.PNG)
 ![Best Model Summary](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/4.PNG)
