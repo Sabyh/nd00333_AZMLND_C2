@@ -46,4 +46,4 @@ In this project I have registered the dataset and then run autoML on that datase
 [Link to screen recording](https://drive.google.com/file/d/10HCKoCkYEO-xW9_hR9LKix70nrdCHYZ-/view)
 
 ## Standout Suggestions
-Maybe try deploying some other model.
+Maybe try deploying some other model. for the future I would also love to consume my endpoint using postman and will also love to do load testing from postman as there is a feature in postman for that. 
