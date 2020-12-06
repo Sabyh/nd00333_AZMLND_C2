@@ -86,4 +86,4 @@ Then I have checked that whether I have az installed and then I have run endpoin
 
 ## Standout Suggestions
 
-I might want to attempt this dataset utilizing hyper drive in which I need to evaluate various models like decision forrest, random forest or logistic regression. I figure it would be a great movement by which we can analyze whether autoML one was the best or hyper drive one perform better and then deploy the one performing better.  
+I might want to attempt this dataset utilizing hyper drive in which I need to evaluate various models like decision forrest, random forest or logistic regression. I figure it would be a great movement by which we can analyze whether autoML one was the best or hyper drive one perform better and then deploy the one performing better. I would also love to see consuming this model in a real website by which we can get real time data from user pass that data to the model using endpoint and see whats the result of the model.  
