@@ -21,21 +21,19 @@ Then in column headers I changed the value to "Use headers from the first file".
 ![Registering Dataset step 3:](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/registered-dataset5.PNG)
 
 Final result
-![Final result](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/datasets.PNG)
+![Final result Registered Dataset](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/datasets.PNG)
 
 After that I went to automl and selected the registered dataset and configured automl first create a compute for running automl run and then tell automl to use classification models, exit criteria to 1 and concurrent execution to 5.
 ![AutoML experiment](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/experiment-completed.PNG)
 
 
-![Registered Dataset](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/2.PNG)
-![Completed Experiment](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/3.PNG)
 ![Best Model Summary](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/4.PNG)
 ![Best Model Details](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/5.PNG)
 
 2. **Then Deploy the best performing model.**
 
-Then I deployed the best performing Model.
-![Best performing model](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/best-performing-model.PNG)
+Then I deployed the best performing Model. You can see in the screen shot that it is deployed.
+![Best performing model Deployed](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/best-performing-model.PNG)
 
 3. **Then Enable Log insights of the endpoint.**
 
@@ -47,9 +45,7 @@ This is the response I got after running logs.py
 This is the screen shot of my script
 ![log.py script](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/enable-log.PNG)
 
-
 ![Application Insights Enabled In Deployed Model](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/8.PNG)
-![Logs In Bash](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/7.PNG)
 
 4. **Make documentation of deployed endpoint using swagger.**
 For setting up swagger I have first downloaded swagger.json file from deployed model endpoint and then I have pasted the swagger.json file in the folder where my script resides. 
@@ -63,8 +59,6 @@ Then I have pasted the url of json served using serve.py to swagger which is run
 Below is the screen shot of scripts running to use swagger
 ![Swagger running](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/swagger-running.PNG)
 
-![Swagger API Documentation](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/9.PNG)
-![Swagger APIS json](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/10.PNG)
 
 5. **Consume the model endpoints and show benchmarks for the endpoint.**
 
@@ -75,7 +69,6 @@ Then I have checked that whether I have az installed and then I have run endpoin
 ![Endpoint result](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/endpoint2.PNG)
 
 
-![Endpoint Output](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/11.PNG)
 ![Benchmarks 1](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/12.PNG)
 
 6. **Use Jupyter Notebook to create, publish and consume a pipeline.**
