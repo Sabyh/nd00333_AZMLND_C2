@@ -2,7 +2,7 @@
 
 # Operationalizing Machine Learning
 
-In this project I have registered the dataset and then run autoML on that dataset after that I have deployed the best performing model. Then I have enabled insight logs against the endpoint and then try to consume that endpoint. I also performed some loaded testing and created a dashboard using swagger. The dataset is about bank marketing in which it contain several details of the customers like loan taken or not specified as "loan" column.
+In this task I have enrolled the dataset and afterward run autoML on that dataset after that I have sent the best performing model. At that point I have empowered knowledge logs against the endpoint and afterward attempt to devour that endpoint. I likewise played out some stacked testing and made a dashboard utilizing strut. The dataset is about bank showcasing in which it contain a few subtleties of the clients like credit taken or not indicated as "advance" section and different subtleties like age, work title, conjugal status. The objective is to anticipate y section utilizing different highlights given in dataset we initially accomplish it utilizing autoML which do alot of preparing himself. This is essentially an order issue in which we need to foresee if a client will purchase an advancement offer.
 
 ## Architectural Diagram
 ![Design](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/Architecture-diagram.jpg)
@@ -85,4 +85,5 @@ Then I have checked that whether I have az installed and then I have run endpoin
 [Link to screen recording](https://drive.google.com/file/d/11XMsGRz7bdQnORH0zpfNJrMTUQ9BNXD8/view)
 
 ## Standout Suggestions
-Maybe try deploying some other model. for the future I would also love to consume my endpoint using postman and will also love to do load testing from postman as there is a feature in postman for that. 
+
+I might want to attempt this dataset utilizing hyper drive in which I need to evaluate various models like decision forrest, random forest or logistic regression. I figure it would be a great movement by which we can analyze whether autoML one was the best or hyper drive one perform better and then deploy the one performing better.  
