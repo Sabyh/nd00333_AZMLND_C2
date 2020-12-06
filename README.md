@@ -86,4 +86,8 @@ Then I have checked that whether I have az installed and then I have run endpoin
 
 ## Standout Suggestions
 
-I might want to attempt this dataset utilizing hyper drive in which I need to evaluate various models like decision forrest, random forest or logistic regression. I figure it would be a great movement by which we can analyze whether autoML one was the best or hyper drive one perform better and then deploy the one performing better. I would also love to see consuming this model in a real website by which we can get real time data from user pass that data to the model using endpoint and see whats the result of the model.  
+For future work, I would propose making further changes to the AutoML step of the pipeline. There are a ton of settings included and making changes to them could improve the hunt space and help locate a far better model arrangement. There are likewise extra advances that could be added to the pipeline, maybe doing some dataset cleanup or highlight designing before the AutoML step, or doing extra strides after the AutoML step has finished. I would recommend you all to search for some different arrangements for labs as opposed to utilizing RDP gateway as it is irritating and bridle your advancement. 
+
+Finally, I would accept the enlisted model as an Artifact with, for instance, Azure DevOps, and make a Continuous Deployment pipeline to consistently have it prepared with the Endpoint everytime another model is logged. Furthermore, to go much further, it'd be ideal to have each git-commit order to trigger a Continuous Integration pipeline, that would then enroll the new form of the model, shutting the DevOps cycle. This would help us automating the whole process of deploying the model in a production environment. 
+
+
