@@ -5,7 +5,7 @@
 In this project I have registered the dataset and then run autoML on that dataset after that I have deployed the best performing model. Then I have enabled insight logs against the endpoint and then try to consume that endpoint. I also performed some loaded testing and created a dashboard using swagger. The dataset is about bank marketing in which it contain several details of the customers like loan taken or not specified as "loan" column.
 
 ## Architectural Diagram
-![Design](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/check.png)
+![Design](https://github.com/Sabyh/nd00333_AZMLND_C2/blob/master/Architecture-diagram.jpg)
 
 
 ## Key Steps
